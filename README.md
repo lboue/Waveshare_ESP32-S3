@@ -1,5 +1,7 @@
 # Waveshare ESP32-S3
 
+* [Wiki ESP32-S3-Touch-LCD-4.3](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3)
+
 ## Examples
 
 ### Single RGB LCD Example
