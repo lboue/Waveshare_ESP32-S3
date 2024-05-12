@@ -9,3 +9,10 @@ The example demonstrates how to develop different model LCDs with RGB interface 
 
 * Generic demo code: [ESP32_Display_Panel demo](https://github.com/esp-arduino-libs/ESP32_Display_Panel/tree/master/examples/LCD/RGB) 
 * Waveshare ESP32-S3 demo: [RGB.ino](Tests/RGB/RGB.ino)
+
+
+### SquareLine Porting Example
+
+The example demonstrates how to port SquareLine (v1.3.x) project. And for RGB LCD, it can enable the avoid tearing function.
+
+* Generic demo code: [ESP32_Display_Panel demo](https://github.com/esp-arduino-libs/ESP32_Display_Panel/tree/master/examples/SquareLine/v8/Porting) 
